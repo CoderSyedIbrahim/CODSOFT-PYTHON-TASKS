@@ -12,18 +12,23 @@ This repository contains all the tasks I have completed during the internship pr
 
 1. **To-Do List App**  
    A command-line based application to create, update, and manage tasks efficiently.
+<img width="355" height="172" alt="Task1-output" src="https://github.com/user-attachments/assets/5e7c853f-eec0-499d-bdb5-0253af4b7317" />
 
 2. **Calculator**  
    A basic calculator that performs arithmetic operations like addition, subtraction, multiplication, and division.
+<img width="296" height="108" alt="Task2-output" src="https://github.com/user-attachments/assets/0c0f0840-d97d-4f9c-92b1-3a3e52bd6890" />
 
 3. **Password Generator**  
    A tool to generate strong, random passwords based on user-defined criteria such as length and complexity.
+<img width="342" height="47" alt="Task3-output" src="https://github.com/user-attachments/assets/8a227626-433a-493f-9cdb-333ea2df3be2" />
 
 4. **Rock-Paper-Scissors Game**  
    A simple game where the user plays rock-paper-scissors against the computer, with score tracking and replay options.
+<img width="448" height="295" alt="Task4-output" src="https://github.com/user-attachments/assets/2106668f-35ab-47fd-a8dd-4260388c48f4" />
 
 5. **Contact Book**  
    A contact management system that allows users to add, update, search, and delete contacts with name, phone, email, and address.
+<img width="156" height="625" alt="Task5-output" src="https://github.com/user-attachments/assets/dee0f17b-953a-4593-a46a-261f433bebd9" />
 
 ---
 

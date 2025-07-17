@@ -28,7 +28,8 @@ This repository contains all the tasks I have completed during the internship pr
 
 5. **Contact Book**  
    A contact management system that allows users to add, update, search, and delete contacts with name, phone, email, and address.
-<img width="156" height="625" alt="Task5-output" src="https://github.com/user-attachments/assets/dee0f17b-953a-4593-a46a-261f433bebd9" />
+<img width="255" height="850" alt="Task5-output" src="https://github.com/user-attachments/assets/afa8ba60-c37d-48f3-8fee-ddf1b7a0353b" />
+
 
 ---
 
